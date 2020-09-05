@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Advait.a.Snake.game"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Snake Game Android</name>
+
+  <description>
+      A Snake Game Android But Made With Scratch Website.(scratch.mit.edu)
+  </description>
+
+  <author href="none" email="adityapathakfamily@gmail.com">
+      
+  </author>
+
+<icon source=icon.png
+
+</widget>
